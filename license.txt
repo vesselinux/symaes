@@ -1,0 +1,18 @@
+SYMAES is a software tool that generates a system of polynomials in GF(2), corresponding to the round transformation and key schedule of the block cipher AES-128. SYMAES is written in Python and is executed within the computer algebra system Sage. For more details, refer to the paper: V. Velichkov, V. Rijmen, and B. Preneel, "SYMAES: A Fully Symbolic Polynomial System Generator for AES-128," In Workshop on Tools for Cryptanalysis 2010, F. Standaert (ed.), ECRYPT II, 2 pages, 2010. 
+
+    Copyright (C) 2008-2010  Vesselin Velichkov
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Contact: Vesselin.Velichkov@gmail.com
